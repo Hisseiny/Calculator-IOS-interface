@@ -123,7 +123,7 @@ class CalculatorModel {
     }
 
     // Memory Operations
-    fun memoryClear() {
+    private fun memoryClear() {
         memory = 0.0
     }
 
